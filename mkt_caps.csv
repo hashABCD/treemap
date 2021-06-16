@@ -1,0 +1,910 @@
+Symbol,Sector,Industry,Change,Mcap
+FOXA,Consumer Services,Broadcasting,7.0,NA
+TWOU,Technology Services,Packaged Software,0.4,2.92
+MMM,Producer Manufacturing,Industrial Conglomerates,-1.4,116.72
+ABT,Health Technology,Medical Specialties,0.2,196.3
+ABBV,Health Technology,Pharmaceuticals: Major,-1.3,203.82
+ANF,Retail Trade,Apparel/Footwear Retail,0.1,NA
+ACN,Technology Services,Information Technology Services,1.4,181.61
+ACEV,Finance,Financial Conglomerates,1.5,NA
+ATVI,Consumer Durables,Recreational Products,-1.4,77.06
+ADBE,Technology Services,Packaged Software,1.1,266.22
+AAP,Retail Trade,Specialty Stores,-0.8,12.99
+AMD,Electronic Technology,Semiconductors,0.1,99.08
+AFRM,Technology Services,Internet Software/Services,0.7,18.27
+AFL,Finance,Life/Health Insurance,-1.0,37.67
+A,Health Technology,Medical Specialties,-18.0,43.81
+AGL,Health Services,Medical/Nursing Services,-8.0,NA
+AGNC,Finance,Real Estate Investment Trusts,4.0,9.25
+AIG,Finance,Multi-Line Insurance,-20.0,43.85
+AL,Finance,Finance/Rental/Leasing,2.0,5.22
+APD,Process Industries,Chemicals: Specialty,-6.0,66.19
+ABNB,Technology Services,Internet Software/Services,6.0,92.14
+AJAX,Finance,Financial Conglomerates,-7.0,NA
+AKAM,Technology Services,Internet Software/Services,-4.0,19.23
+ALB,Process Industries,Chemicals: Specialty,11.0,19.64
+AA,Non-Energy Minerals,Aluminum,20.0,6.89
+ALXN,Health Technology,Biotechnology,-16.0,40.14
+BABA,Retail Trade,Internet Retail,13.0,579.98
+ALGN,Health Technology,Medical Specialties,-19.0,NA
+ALLT,Electronic Technology,Computer Communications,19.0,0.72
+MDRX,Technology Services,Information Technology Services,14.0,2.48
+ALL,Finance,Property/Casualty Insurance,-4.0,39.2
+ALLY,Finance,Regional Banks,15.0,19.79
+GOOGL,Technology Services,Internet Software/Services,6.0,NA
+GOOG,Technology Services,Internet Software/Services,4.0,1664.0
+AYX,Technology Services,Packaged Software,-11.0,5.66
+ATUS,Consumer Services,Cable/Satellite TV,-5.0,16.01
+MO,Consumer Non-Durables,Tobacco,5.0,88.97
+AMZN,Retail Trade,Internet Retail,-19.0,1707.0
+ABEV,Consumer Non-Durables,Beverages: Alcoholic,12.0,60.42
+AMC,Consumer Services,Movies/Entertainment,1.0,29.25
+AMRC,Industrial Services,Engineering & Construction,18.0,3.12
+AAL,Transportation,Airlines,-5.0,14.74
+AXL,Producer Manufacturing,Auto Parts: OEM,15.0,1.32
+AEO,Retail Trade,Apparel/Footwear Retail,3.0,5.82
+AEP,Utilities,Electric Utilities,5.0,42.54
+AXP,Finance,Finance/Rental/Leasing,13.0,131.58
+AMH,Finance,Real Estate Investment Trusts,17.0,12.66
+AMT,Finance,Real Estate Investment Trusts,18.0,123.19
+COLD,Finance,Real Estate Investment Trusts,-18.0,9.91
+AME,Producer Manufacturing,Electrical Products,12.0,31.44
+AMGN,Health Technology,Biotechnology,17.0,138.57
+FOLD,Health Technology,Biotechnology,9.0,2.85
+AMRX,Health Technology,Pharmaceuticals: Major,17.0,0.85
+APH,Electronic Technology,Electronic Components,-14.0,40.82
+ADI,Electronic Technology,Semiconductors,-6.0,62.12
+PLAN,Technology Services,Packaged Software,-17.0,7.62
+ANGI,Technology Services,Internet Software/Services,14.0,7.28
+AU,Non-Energy Minerals,Precious Metals,13.0,NA
+BUD,Consumer Non-Durables,Beverages: Alcoholic,0.0,NA
+NLY,Finance,Real Estate Investment Trusts,-16.0,13.0
+ANSS,Technology Services,Packaged Software,-17.0,29.5
+AM,Industrial Services,Oil & Gas Pipelines,19.0,4.89
+AR,Energy Minerals,Oil & Gas Production,-11.0,4.3
+ANTM,Health Services,Managed Health Care,-3.0,93.89
+AOS,Producer Manufacturing,Building Products,-11.0,11.04
+APA,Energy Minerals,Oil & Gas Production,12.0,8.47
+APXT,Finance,Financial Conglomerates,-19.0,NA
+ARI,Finance,Real Estate Investment Trusts,-4.0,NA
+APSG,Finance,Finance/Rental/Leasing,-13.0,NA
+APPN,Technology Services,Packaged Software,-5.0,8.33
+AAPL,Electronic Technology,Telecommunications Equipment,18.0,2177.0
+AMAT,Producer Manufacturing,Industrial Machinery,-5.0,127.07
+APP,Technology Services,Packaged Software,12.0,NA
+ATR,Process Industries,Containers/Packaging,-15.0,9.42
+ARMK,Consumer Services,Restaurants,18.0,9.59
+ADM,Process Industries,Agricultural Commodities/Milling,11.0,36.43
+ACTC,Finance,Financial Conglomerates,13.0,NA
+ARNC,Non-Energy Minerals,Aluminum,-11.0,4.08
+ARCT,Health Technology,Pharmaceuticals: Major,15.0,0.94
+ARCC,Finance,Investment Managers,-2.0,8.69
+ANET,Electronic Technology,Computer Communications,3.0,27.84
+ARR,Finance,Real Estate Investment Trusts,5.0,NA
+ARVL,Consumer Durables,Motor Vehicles,-13.0,NA
+AACQ,Finance,Financial Conglomerates,3.0,NA
+ASAN,Technology Services,Packaged Software,19.0,NA
+ASML,Producer Manufacturing,Industrial Machinery,-1.0,295.93
+AZN,Health Technology,Pharmaceuticals: Major,9.0,155.08
+HOME,Retail Trade,Specialty Stores,-13.0,2.36
+T,Communications,Major Telecommunications,-17.0,207.7
+AY,Utilities,Alternative Power Generation,-3.0,4.17
+ACIC,Finance,Financial Conglomerates,14.0,NA
+TEAM,Technology Services,Packaged Software,5.0,62.73
+ADSK,Technology Services,Packaged Software,3.0,61.71
+ATHM,Technology Services,Internet Software/Services,8.0,NA
+ADP,Technology Services,Data Processing Services,18.0,84.75
+AZO,Retail Trade,Specialty Stores,-9.0,29.96
+AVLR,Technology Services,Packaged Software,-9.0,12.04
+AVB,Finance,Real Estate Investment Trusts,9.0,29.9
+EQH,Finance,Financial Conglomerates,16.0,13.34
+AXTA,Process Industries,Industrial Specialties,3.0,7.29
+AXON,Electronic Technology,Aerospace & Defense,9.0,NA
+BTG,Non-Energy Minerals,Precious Metals,18.0,5.21
+BIDU,Technology Services,Internet Software/Services,-9.0,65.96
+BKR,Industrial Services,Oilfield Services/Equipment,9.0,25.76
+BLL,Process Industries,Containers/Packaging,10.0,26.62
+BLDP,Producer Manufacturing,Electrical Products,13.0,5.32
+BBD,Finance,Major Banks,-1.0,55.23
+BMA,Finance,Regional Banks,-19.0,NA
+BSBR,Finance,Regional Banks,15.0,33.43
+BAC,Finance,Major Banks,7.0,354.42
+BZUN,Retail Trade,Internet Retail,-11.0,NA
+BCS,Finance,Major Banks,-8.0,43.09
+GOLD,Non-Energy Minerals,Precious Metals,-9.0,41.37
+BHC,Health Technology,Pharmaceuticals: Other,-14.0,11.37
+BAX,Health Technology,Medical Specialties,12.0,41.62
+BBAR,Finance,Regional Banks,16.0,NA
+BDX,Health Technology,Medical Specialties,-3.0,70.58
+BDC,Producer Manufacturing,Electrical Products,-12.0,2.36
+BRK.B,Finance,Multi-Line Insurance,-6.0,NA
+BBY,Retail Trade,Electronics/Appliance Stores,3.0,28.56
+BYND,Consumer Non-Durables,Food: Major Diversified,-14.0,9.55
+BHP,Non-Energy Minerals,Other Metals/Minerals,-14.0,190.82
+BILI,Technology Services,Internet Software/Services,-14.0,43.77
+BIO,Health Technology,Medical Specialties,2.0,17.94
+BIIB,Health Technology,Biotechnology,-20.0,61.14
+BMRN,Health Technology,Biotechnology,1.0,15.07
+BNTX,Health Technology,Biotechnology,-10.0,53.27
+BJ,Retail Trade,Specialty Stores,-1.0,6.61
+BB,Technology Services,Packaged Software,-15.0,7.98
+BLK,Finance,Investment Managers,-5.0,133.73
+BX,Finance,Investment Managers,-20.0,67.37
+BK,Finance,Major Banks,-19.0,43.45
+BA,Electronic Technology,Aerospace & Defense,10.0,143.36
+BKNG,Consumer Services,Other Consumer Services,7.0,94.62
+BAH,Commercial Services,Miscellaneous Commercial Services,16.0,11.85
+BWA,Producer Manufacturing,Auto Parts: OEM,-6.0,12.46
+BSX,Health Technology,Medical Specialties,-14.0,60.44
+BOX,Technology Services,Information Technology Services,-16.0,4.09
+BP,Energy Minerals,Integrated Oil,3.0,94.66
+BRFS,Consumer Non-Durables,Food: Meat/Fish/Dairy,-1.0,4.71
+BMY,Health Technology,Pharmaceuticals: Major,-1.0,150.24
+BRX,Finance,Real Estate Investment Trusts,5.0,7.09
+AVGO,Electronic Technology,Semiconductors,11.0,194.28
+BAM,Finance,Investment Managers,4.0,78.66
+BIPC,Utilities,Gas Distributors,12.0,NA
+BIP,Utilities,Alternative Power Generation,-2.0,NA
+BEPC,Utilities,Electric Utilities,17.0,NA
+BEP,Utilities,Electric Utilities,-16.0,NA
+BF.B,Consumer Non-Durables,Beverages: Alcoholic,19.0,NA
+BTWN,Finance,Financial Conglomerates,-14.0,NA
+BMBL,Technology Services,Packaged Software,6.0,9.45
+BG,Process Industries,Agricultural Commodities/Milling,-6.0,NA
+BTAQ,Finance,Financial Conglomerates,-18.0,NA
+AI,Technology Services,Packaged Software,-3.0,6.11
+CABO,Consumer Services,Cable/Satellite TV,-5.0,10.92
+COG,Energy Minerals,Integrated Oil,-17.0,6.75
+CDNS,Technology Services,Packaged Software,3.0,36.44
+CZR,Consumer Services,Casinos/Gaming,20.0,22.25
+CSIQ,Producer Manufacturing,Electrical Products,-9.0,2.41
+CAJ,Electronic Technology,Electronic Equipment/Instruments,-3.0,24.61
+GOEV,Consumer Durables,Motor Vehicles,11.0,NA
+COF,Finance,Major Banks,14.0,71.65
+CAH,Distribution Services,Medical Distributors,-5.0,16.92
+CG,Finance,Investment Managers,0.0,15.43
+CCL,Consumer Services,Hotels/Resorts/Cruise lines,-2.0,34.22
+CARR,Producer Manufacturing,Industrial Machinery,-4.0,40.15
+CARS,Technology Services,Internet Software/Services,-14.0,NA
+CVNA,Retail Trade,Specialty Stores,-5.0,48.04
+CAT,Producer Manufacturing,Trucks/Construction/Farm Machinery,-5.0,119.97
+CBOE,Finance,Investment Banks/Brokers,12.0,12.24
+CBRE,Finance,Real Estate Development,7.0,29.43
+PRPB,Finance,Financial Conglomerates,-5.0,NA
+CX,Non-Energy Minerals,Construction Materials,7.0,11.85
+CVE,Energy Minerals,Oil & Gas Production,-18.0,20.32
+CNC,Health Services,Managed Health Care,-20.0,40.08
+CNP,Utilities,Electric Utilities,-4.0,15.08
+CERN,Technology Services,Information Technology Services,17.0,24.31
+CF,Process Industries,Chemicals: Agricultural,20.0,11.3
+CHPT,Retail Trade,Specialty Stores,20.0,NA
+SCHW,Finance,Investment Banks/Brokers,-18.0,135.83
+CHTR,Consumer Services,Cable/Satellite TV,13.0,130.29
+CHKP,Technology Services,Internet Software/Services,13.0,16.36
+CHGG,Commercial Services,Miscellaneous Commercial Services,-10.0,11.05
+SQM,Process Industries,Chemicals: Agricultural,-5.0,12.42
+CC,Process Industries,Industrial Specialties,-2.0,6.0
+LNG,Industrial Services,Oil & Gas Pipelines,4.0,22.51
+CHKAQ,Energy Minerals,Integrated Oil,13.0,NA
+CVX,Energy Minerals,Integrated Oil,0.0,208.17
+CHWY,Retail Trade,Internet Retail,10.0,31.18
+CHS,Retail Trade,Apparel/Footwear Retail,-7.0,0.67
+CIM,Finance,Real Estate Investment Trusts,9.0,3.54
+CHL,Communications,Telecommunications Equipment,-15.0,NA
+ZNH,Transportation,Airlines,-2.0,NA
+CMG,Consumer Services,Restaurants,17.0,39.16
+CCX,Finance,Financial Conglomerates,-19.0,NA
+CCIV,Finance,Financial Conglomerates,8.0,NA
+CIEN,Electronic Technology,Telecommunications Equipment,12.0,9.0
+CI,Health Services,Managed Health Care,-5.0,82.08
+XEC,Energy Minerals,Oil & Gas Production,20.0,7.17
+CTAS,Consumer Services,Other Consumer Services,-17.0,37.11
+CSCO,Technology Services,Information Technology Services,3.0,228.28
+C,Finance,Financial Conglomerates,-7.0,155.35
+CFG,Finance,Regional Banks,-17.0,20.06
+CTXS,Technology Services,Packaged Software,7.0,14.98
+CLNE,Utilities,Gas Distributors,-10.0,2.48
+CWEN,Utilities,Alternative Power Generation,13.0,5.34
+CLF,Non-Energy Minerals,Steel,-17.0,11.05
+CLDR,Technology Services,Packaged Software,6.0,4.61
+NET,Technology Services,Information Technology Services,18.0,29.7
+CLVS,Health Technology,Biotechnology,-18.0,NA
+CMLF,Finance,Financial Conglomerates,-1.0,NA
+CME,Finance,Investment Banks/Brokers,-16.0,77.81
+CNX,Energy Minerals,Integrated Oil,1.0,3.21
+KO,Consumer Non-Durables,Beverages: Non-Alcoholic,7.0,239.51
+CDE,Non-Energy Minerals,Precious Metals,-18.0,2.75
+CGNX,Electronic Technology,Electronic Equipment/Instruments,14.0,14.15
+CTSH,Technology Services,Information Technology Services,-13.0,37.33
+CRHC,Finance,Financial Conglomerates,-16.0,NA
+COIN,Technology Services,Packaged Software,1.0,62.62
+CL,Consumer Non-Durables,Household/Personal Care,18.0,70.56
+CLNY,Finance,Real Estate Investment Trusts,3.0,3.84
+CMCSA,Consumer Services,Cable/Satellite TV,5.0,263.16
+CMA,Finance,Major Banks,-19.0,10.08
+COMM,Electronic Technology,Telecommunications Equipment,-4.0,4.42
+CYH,Health Services,Hospital/Nursing Management,-7.0,2.05
+SBS,Utilities,Water Utilities,-20.0,5.33
+CIG,Utilities,Electric Utilities,-1.0,4.92
+SID,Non-Energy Minerals,Steel,-13.0,12.37
+BVN,Non-Energy Minerals,Precious Metals,17.0,NA
+COMP,Technology Services,Packaged Software,-14.0,NA
+CAG,Consumer Non-Durables,Food: Major Diversified,2.0,17.98
+CNDT,Commercial Services,Miscellaneous Commercial Services,-16.0,NA
+COP,Energy Minerals,Oil & Gas Production,6.0,81.38
+ED,Utilities,Electric Utilities,2.0,26.65
+STZ,Consumer Non-Durables,Beverages: Alcoholic,14.0,45.58
+CLR,Energy Minerals,Oil & Gas Production,-8.0,13.01
+CONX,Finance,Financial Conglomerates,2.0,NA
+GLW,Electronic Technology,Electronic Components,-10.0,35.29
+CTVA,Process Industries,Chemicals: Agricultural,-2.0,32.4
+CSGP,Technology Services,Internet Software/Services,-20.0,34.74
+COST,Retail Trade,Specialty Stores,18.0,169.64
+COTY,Consumer Non-Durables,Household/Personal Care,-7.0,7.05
+CPNG,Retail Trade,Internet Retail,-17.0,66.72
+COUR,Technology Services,Internet Software/Services,0.0,NA
+CVA,Industrial Services,Environmental Services,-19.0,2.29
+BAP,Finance,Regional Banks,7.0,NA
+CRSP,Health Technology,Biotechnology,-4.0,9.75
+CROX,Consumer Non-Durables,Apparel/Footwear,-13.0,7.34
+CRWD,Technology Services,Packaged Software,16.0,52.73
+CCI,Finance,Real Estate Investment Trusts,17.0,85.17
+CSX,Transportation,Railroads,-2.0,73.68
+CVS,Retail Trade,Drugstore Chains,7.0,111.4
+DAN,Producer Manufacturing,Auto Parts: OEM,14.0,3.73
+DHR,Health Technology,Medical Specialties,20.0,176.47
+DQ,Process Industries,Chemicals: Specialty,-20.0,NA
+DRI,Consumer Services,Restaurants,4.0,17.99
+DAR,Process Industries,Agricultural Commodities/Milling,2.0,11.68
+DDOG,Technology Services,Packaged Software,-3.0,29.99
+MSP,Technology Services,Packaged Software,-5.0,NA
+DVA,Health Services,Medical/Nursing Services,-7.0,12.9
+DCRB,Finance,Financial Conglomerates,13.0,NA
+DELL,Electronic Technology,Computer Processing Hardware,12.0,78.46
+DAL,Transportation,Airlines,-19.0,29.35
+DB,Finance,Major Banks,13.0,29.04
+DVN,Energy Minerals,Oil & Gas Production,9.0,19.61
+DXCM,Health Technology,Medical Specialties,8.0,39.56
+DEO,Consumer Non-Durables,Beverages: Alcoholic,1.0,113.82
+DOFSQ,Energy Minerals,Integrated Oil,-10.0,NA
+FANG,Energy Minerals,Oil & Gas Production,-10.0,15.64
+DLR,FInance,Real Estate Investment Trusts,-14.0,45.71
+APPS,Technology Services,Internet Software/Services,-11.0,6.73
+DIN,Consumer Services,Restaurants,-13.0,NA
+DFS,Finance,Finance/Rental/Leasing,-4.0,36.79
+DISCA,Consumer Services,Cable/Satellite TV,1.0,15.22
+DISCK,Consumer Services,Cable/Satellite TV,17.0,NA
+DISH,Consumer Services,Cable/Satellite TV,-19.0,21.12
+DHC,Finance,Real Estate Investment Trusts,15.0,NA
+DOCU,Technology Services,Packaged Software,17.0,50.12
+DG,Retail Trade,Discount Stores,7.0,49.49
+DLTR,Retail Trade,Discount Stores,18.0,23.24
+D,Utilities,Electric Utilities,-19.0,63.12
+DPZ,Consumer Services,Restaurants,-14.0,17.4
+DASH,Technology Services,Internet Software/Services,-11.0,51.75
+XPOA,Finance,Financial Conglomerates,7.0,NA
+DHI,Consumer Durables,Homebuilding,11.0,31.71
+DKNG,Technology Services,Internet Software/Services,-12.0,20.33
+DGNR,Finance,Financial Conglomerates,7.0,NA
+DBX,Technology Services,Data Processing Services,-3.0,11.53
+DTE,Utilities,Electric Utilities,-5.0,26.8
+DUK,Utilities,Electric Utilities,7.0,78.86
+DRE,Finance,Real Estate Investment Trusts,0.0,18.56
+DD,Process Industries,Chemicals: Major Diversified,6.0,43.39
+DXC,Technology Services,Data Processing Services,-10.0,10.45
+ETAC,Finance,Financial Conglomerates,20.0,NA
+EBAY,Consumer Services,Other Consumer Services,14.0,44.88
+ECL,Process Industries,Chemicals: Specialty,-16.0,60.97
+EIX,Utilities,Electric Utilities,4.0,22.26
+EW,Health Technology,Medical Specialties,6.0,62.76
+ELAN,Process Industries,Agricultural Commodities/Milling,11.0,15.83
+EGO,Non-Energy Minerals,Precious Metals,3.0,2.11
+EA,Consumer Durables,Recreational Products,12.0,42.51
+ESI,Process Industries,Chemicals: Major Diversified,18.0,5.99
+LLY,Health Technology,Pharmaceuticals: Major,1.0,216.83
+ERJ,Electronic Technology,Aerospace & Defense,-3.0,3.12
+EMR,Producer Manufacturing,Electrical Products,-18.0,58.39
+OVV,Energy Minerals,Oil & Gas Production,7.0,7.97
+ET,Industrial Services,Oil & Gas Pipelines,-12.0,30.15
+ENIA,Utilities,Electric Utilities,-20.0,14.62
+ENLC,Industrial Services,Oil & Gas Pipelines,10.0,3.14
+ENPH,Electronic Technology,Semiconductors,9.0,20.03
+ETR,Utilities,Electric Utilities,13.0,21.85
+EPD,Industrial Services,Oil & Gas Pipelines,-10.0,55.32
+EOG,Energy Minerals,Oil & Gas Production,18.0,49.52
+EPAM,Technology Services,Information Technology Services,14.0,28.66
+EQT,Energy Minerals,Oil & Gas Production,20.0,6.25
+EFX,Commercial Services,Miscellaneous Commercial Services,-16.0,27.85
+EQIX,Finance,Real Estate Investment Trusts,14.0,73.81
+EQNR,Energy Minerals,Integrated Oil,-4.0,NA
+ETRN,Industrial Services,Oil & Gas Pipelines,-14.0,4.11
+EQD,Finance,Financial Conglomerates,-19.0,NA
+EQR,Finance,Real Estate Investment Trusts,15.0,30.26
+EL,Consumer Non-Durables,Household/Personal Care,-7.0,109.92
+ETSY,Commercial Services,Miscellaneous Commercial Services,18.0,21.64
+EB,Technology Services,Packaged Software,-12.0,1.96
+EVR,Finance,Investment Banks/Brokers,15.0,5.58
+EXAS,Health Technology,Biotechnology,14.0,21.44
+XGN,Health Services,Medical/Nursing Services,15.0,NA
+EXEL,Health Technology,Biotechnology,-11.0,7.13
+EXC,Utilities,Electric Utilities,2.0,46.03
+EXPE,Consumer Services,Other Consumer Services,-1.0,24.85
+STAY,Consumer Services,Hotels/Resorts/Cruise lines,2.0,3.63
+XOM,Energy Minerals,Integrated Oil,6.0,262.77
+FFIV,Electronic Technology,Computer Communications,8.0,11.42
+FB,Technology Services,Internet Software/Services,-20.0,954.89
+FDS,Technology Services,Data Processing Services,-15.0,12.41
+FAST,Distribution Services,Wholesale Distributors,-14.0,30.29
+FSLY,Technology Services,Information Technology Services,-15.0,6.64
+FDX,Transportation,Air Freight/Couriers,-6.0,77.74
+RACE,Consumer Durables,Motor Vehicles,-19.0,51.01
+FGNA,Finance,Financial Conglomerates,-8.0,NA
+FITB,Finance,Regional Banks,-5.0,NA
+FSRV,Finance,Financial Conglomerates,8.0,NA
+FEYE,Technology Services,Information Technology Services,3.0,5.16
+FHN,Finance,Regional Banks,-7.0,9.9
+AG,Non-Energy Minerals,Precious Metals,-5.0,4.6
+FSLR,Electronic Technology,Electronic Components,-10.0,8.35
+FE,Utilities,Electric Utilities,2.0,21.09
+FMAC,Finance,Financial Conglomerates,0.0,NA
+FIS,Technology Services,Data Processing Services,15.0,90.84
+FISV,Technology Services,Data Processing Services,-12.0,72.2
+FVE,Health Services,Hospital/Nursing Management,-15.0,NA
+FVRR,Technology Services,Data Processing Services,-2.0,7.29
+FLT,Commercial Services,Miscellaneous Commercial Services,-3.0,22.5
+FLEX,Electronic Technology,Electronic Components,14.0,8.96
+FLR,Industrial Services,Engineering & Construction,2.0,2.61
+WPF,Finance,Financial Conglomerates,1.0,NA
+FL,Retail Trade,Apparel/Footwear Retail,6.0,6.38
+F,Consumer Durables,Motor Vehicles,9.0,59.35
+FTNT,Electronic Technology,Computer Communications,-15.0,37.8
+FTV,Electronic Technology,Electronic Equipment/Instruments,19.0,24.07
+FAII,Finance,Financial Conglomerates,-1.0,NA
+FIII,Finance,Financial Conglomerates,-14.0,NA
+BEN,Finance,Investment Managers,-18.0,17.1
+FCX,Non-Energy Minerals,Other Metals/Minerals,15.0,57.85
+FREQ,Health Technology,Biotechnology,-5.0,0.34
+FSK,Finance,Investment Managers,-1.0,2.79
+FTOC,Finance,Financial Conglomerates,-2.0,NA
+FCEL,Electronic Technology,Electronic Equipment/Instruments,-16.0,3.12
+FF,Process Industries,Chemicals: Specialty,2.0,NA
+GME,Retail Trade,Electronics/Appliance Stores,-11.0,16.47
+GPS,Retail Trade,Apparel/Footwear Retail,-2.0,12.24
+IT,Commercial Services,Miscellaneous Commercial Services,12.0,19.76
+GDS,Technology Services,Data Processing Services,-4.0,NA
+GD,Electronic Technology,Aerospace & Defense,-5.0,53.93
+GE,Electronic Technology,Aerospace & Defense,-1.0,118.24
+GIS,Consumer Non-Durables,Food: Major Diversified,-12.0,38.21
+GM,Consumer Durables,Motor Vehicles,-15.0,88.18
+GNTX,Producer Manufacturing,Auto Parts: OEM,-18.0,8.06
+GNW,Finance,Life/Health Insurance,11.0,2.1
+GGB,Non-Energy Minerals,Steel,13.0,10.36
+GILD,Health Technology,Biotechnology,-9.0,85.47
+GSK,Health Technology,Pharmaceuticals: Major,18.0,100.88
+GNL,Finance,Real Estate Investment Trusts,-9.0,1.9
+GMED,Health Technology,Medical Specialties,-16.0,7.24
+GDDY,Technology Services,Internet Software/Services,17.0,14.36
+GOL,Transportation,Airlines,12.0,1.96
+GFI,Non-Energy Minerals,Precious Metals,6.0,NA
+GS,Finance,Investment Banks/Brokers,0.0,126.7
+GT,Consumer Durables,Automotive Aftermarket,-2.0,5.13
+GPRO,Consumer Durables,Electronics/Appliances,-14.0,1.89
+GPK,Process Industries,Containers/Packaging,5.0,5.43
+GPRE,Process Industries,Chemicals: Specialty,-14.0,1.61
+GO,Retail Trade,Food Retail,-16.0,3.3
+GRPN,Commercial Services,Advertising/Marketing Services,3.0,1.27
+GRUB,Retail Trade,Specialty Stores,10.0,5.59
+GGAL,Finance,Regional Banks,-4.0,NA
+BSMX,Finance,Regional Banks,-18.0,8.8
+SUPV,Finance,Major Banks,-19.0,NA
+TV,Consumer Services,Broadcasting,5.0,7.9
+GSAH,Finance,Financial Conglomerates,-2.0,NA
+GES,Consumer Non-Durables,Apparel/Footwear,5.0,NA
+GPORQ,Energy Minerals,Oil & Gas Production,15.0,NA
+GWPH,Health Technology,Pharmaceuticals: Other,13.0,6.81
+HRB,Consumer Services,Other Consumer Services,19.0,4.63
+HAL,Industrial Services,Oilfield Services/Equipment,8.0,20.99
+HBI,Consumer Non-Durables,Apparel/Footwear,12.0,6.66
+HOG,Consumer Durables,Motor Vehicles,2.0,7.22
+HMY,Non-Energy Minerals,Precious Metals,13.0,NA
+HIG,Finance,Multi-Line Insurance,-17.0,23.11
+HAS,Consumer Durables,Recreational Products,-13.0,13.13
+HCA,Health Services,Hospital/Nursing Management,-12.0,68.72
+HDB,Finance,Regional Banks,19.0,111.26
+HAAC,Finance,Financial Conglomerates,15.0,NA
+HL,Non-Energy Minerals,Precious Metals,-15.0,4.8
+HEI,Electronic Technology,Aerospace & Defense,-17.0,18.38
+HSIC,Distribution Services,Medical Distributors,13.0,10.89
+HLF,Distribution Services,Medical Distributors,15.0,5.57
+HES,Energy Minerals,Oil & Gas Production,-8.0,27.34
+HPE,Electronic Technology,Computer Processing Hardware,-20.0,20.52
+HLT,Consumer Services,Hotels/Resorts/Cruise lines,11.0,35.82
+HGV,Finance,Real Estate Development,-17.0,3.93
+HIMX,Electronic Technology,Semiconductors,0.0,2.74
+HFC,Energy Minerals,Oil Refining/Marketing,-1.0,5.49
+HOLX,Health Technology,Medical Specialties,-10.0,16.24
+HD,Retail Trade,Home Improvement Chains,5.0,328.88
+HMC,Consumer Durables,Motor Vehicles,12.0,55.66
+HON,Producer Manufacturing,Industrial Conglomerates,-2.0,155.0
+HRL,Consumer Non-Durables,Food: Meat/Fish/Dairy,-6.0,26.51
+HST,Finance,Real Estate Investment Trusts,19.0,12.47
+HWM,Non-Energy Minerals,Aluminum,-17.0,15.01
+HPQ,Electronic Technology,Computer Processing Hardware,-19.0,35.3
+HTHT,Consumer Services,Hotels/Resorts/Cruise lines,-6.0,36.15
+HUBS,Technology Services,Information Technology Services,-19.0,25.1
+HEC,Finance,Financial Conglomerates,15.0,NA
+HUM,Health Services,Managed Health Care,-8.0,53.55
+HBAN,Finance,Regional Banks,17.0,21.22
+HUN,Process Industries,Chemicals: Major Diversified,18.0,5.83
+HCM,Health Technology,Pharmaceuticals: Major,4.0,NA
+HUYA,Technology Services,Packaged Software,13.0,NA
+H,Consumer Services,Hotels/Resorts/Cruise lines,-4.0,8.37
+IAG,Non-Energy Minerals,Precious Metals,-13.0,1.75
+IBM,Technology Services,Information Technology Services,-1.0,134.05
+IBN,Finance,Regional Banks,18.0,60.28
+IDXX,Health Technology,Medical Specialties,0.0,50.51
+IGMS,Health Technology,Pharmaceuticals: Major,0.0,NA
+ITW,Producer Manufacturing,Industrial Machinery,-1.0,73.42
+ILMN,Health Technology,Biotechnology,17.0,66.01
+IMGN,Health Technology,Biotechnology,11.0,1.31
+INCY,Health Technology,Biotechnology,-18.0,18.17
+INFN,Electronic Technology,Telecommunications Equipment,12.0,2.14
+INFY,Technology Services,Information Technology Services,19.0,83.76
+IIPR,Finance,Real Estate Investment Trusts,-17.0,4.58
+INO,Health Technology,Medical Specialties,-8.0,1.86
+INTC,Electronic Technology,Semiconductors,-11.0,234.97
+IBKR,Finance,Investment Banks/Brokers,-11.0,26.89
+ICPT,Health Technology,Pharmaceuticals: Other,-7.0,0.7
+ICE,Finance,Investment Banks/Brokers,-1.0,64.06
+IGT,Consumer Services,Casinos/Gaming,3.0,5.04
+IP,Process Industries,Containers/Packaging,-16.0,24.4
+IPG,Commercial Services,Advertising/Marketing Services,20.0,13.22
+INTU,Technology Services,Packaged Software,13.0,130.33
+ISRG,Health Technology,Medical Specialties,-11.0,103.34
+IVZ,Finance,Investment Managers,15.0,13.27
+IVR,Finance,Real Estate Investment Trusts,6.0,NA
+ISBC,Finance,Savings Banks,10.0,NA
+NVTA,Health Services,Medical/Nursing Services,-14.0,6.3
+INVH,Finance,Real Estate Investment Trusts,12.0,21.46
+IQ,Technology Services,Internet Software/Services,-5.0,NA
+IRBT,Consumer Durables,Electronics/Appliances,-3.0,2.74
+IRM,Finance,Real Estate Investment Trusts,-14.0,13.26
+ITUB,Finance,Major Banks,0.0,59.83
+JBHT,Transportation,Trucking,17.0,17.39
+JNJ,Health Technology,Pharmaceuticals: Major,-18.0,435.48
+JKHY,Technology Services,Information Technology Services,20.0,12.11
+JWS,Finance,Financial Conglomerates,13.0,NA
+JAZZ,Health Technology,Pharmaceuticals: Other,4.0,NA
+JD,Retail Trade,Internet Retail,-13.0,112.54
+JEF,Finance,Investment Banks/Brokers,6.0,7.75
+JBLU,Transportation,Airlines,-7.0,5.8
+FROG,Technology Services,Packaged Software,20.0,NA
+JKS,Producer Manufacturing,Electrical Products,-17.0,NA
+DE,Producer Manufacturing,Trucks/Construction/Farm Machinery,12.0,104.66
+JPM,Finance,Major Banks,18.0,476.98
+JMIA,Technology Services,Internet Software/Services,-10.0,2.99
+JIH,Finance,Financial Conglomerates,-6.0,NA
+JNPR,Technology Services,Information Technology Services,19.0,9.34
+KAR,Commercial Services,Miscellaneous Commercial Services,1.0,2.23
+K,Consumer Non-Durables,Food: Major Diversified,-12.0,22.26
+KDP,Consumer Non-Durables,Beverages: Non-Alcoholic,-6.0,49.39
+KEY,Finance,Major Banks,-18.0,20.89
+KEYS,Electronic Technology,Electronic Equipment/Instruments,-7.0,27.37
+KMB,Consumer Non-Durables,Household/Personal Care,-6.0,43.7
+KIM,Finance,Real Estate Investment Trusts,5.0,9.41
+KMI,Industrial Services,Oil & Gas Pipelines,15.0,42.66
+KGC,Non-Energy Minerals,Precious Metals,-15.0,9.86
+KKR,Finance,Investment Managers,17.0,32.16
+KNX,Transportation,Trucking,3.0,7.68
+KSS,Retail Trade,Department Stores,1.0,8.29
+KHC,Consumer Non-Durables,Food: Major Diversified,18.0,52.37
+KTOS,Electronic Technology,Aerospace & Defense,-14.0,3.25
+KR,Retail Trade,Food Retail,18.0,29.07
+KT,Communications,Major Telecommunications,-16.0,7.01
+LB,Retail Trade,Apparel/Footwear Retail,-17.0,18.19
+LRCX,Electronic Technology,Electronic Production Equipment,17.0,92.73
+LVS,Consumer Services,Casinos/Gaming,7.0,41.37
+LSCC,Electronic Technology,Semiconductors,-8.0,7.26
+LDOS,Technology Services,Information Technology Services,11.0,15.08
+LMND,Finance,Property/Casualty Insurance,-12.0,6.37
+LEN,Consumer Durables,Homebuilding,2.0,28.15
+LESL,Retail Trade,Specialty Stores,11.0,NA
+LEVI,Consumer Non-Durables,Apparel/Footwear,2.0,10.71
+LXRX,Health Technology,Biotechnology,15.0,0.69
+LX,Finance,Finance/Rental/Leasing,3.0,NA
+LPL,Electronic Technology,Electronic Production Equipment,-9.0,7.36
+LI,Producer Manufacturing,Auto Parts: OEM,-14.0,25.54
+FWONK,Consumer Services,Movies/Entertainment,-18.0,NA
+LYV,Consumer Services,Movies/Entertainment,0.0,18.89
+LTHM,Process Industries,Chemicals: Specialty,1.0,2.69
+LKQ,Consumer Durables,Automotive Aftermarket,14.0,14.71
+LMT,Electronic Technology,Aerospace & Defense,16.0,108.14
+LOGI,Electronic Technology,Computer Peripherals,7.0,21.88
+LOMA,Non-Energy Minerals,Construction Materials,17.0,NA
+LOW,Retail Trade,Home Improvement Chains,-1.0,134.06
+LTC,Finance,Real Estate Investment Trusts,-11.0,1.55
+LKNCY,Consumer Non-Durables,Food: Specialty/Candy,-1.0,NA
+LULU,Retail Trade,Apparel/Footwear Retail,-14.0,45.69
+LUMN,Communications,Specialty Telecommunications,10.0,16.41
+LYFT,Technology Services,Packaged Software,6.0,19.23
+M,Retail Trade,Department Stores,7.0,5.86
+MSGS,Consumer Services,Movies/Entertainment,-2.0,4.23
+MRO,Energy Minerals,Oil & Gas Production,-1.0,10.57
+MPC,Energy Minerals,Oil Refining/Marketing,13.0,41.11
+MKL,Finance,Specialty Insurance,-13.0,16.56
+MAR,Consumer Services,Hotels/Resorts/Cruise lines,-18.0,46.85
+MMC,Finance,Insurance Brokers/Services,16.0,71.0
+MRVL,Electronic Technology,Semiconductors,2.0,NA
+MAS,Producer Manufacturing,Building Products,-14.0,14.93
+MA,Finance,Finance/Rental/Leasing,-14.0,363.23
+MTDR,Energy Minerals,Oil & Gas Production,-1.0,NA
+MTCH,Technology Services,Internet Software/Services,4.0,38.88
+MAT,Consumer Durables,Recreational Products,-7.0,7.09
+MAXN,Utilities,Alternative Power Generation,11.0,NA
+MXIM,Electronic Technology,Semiconductors,-8.0,27.94
+MCFE,Technology Services,Packaged Software,-17.0,12.23
+MCD,Consumer Services,Restaurants,-12.0,176.82
+MUX,Non-Energy Minerals,Precious Metals,-20.0,NA
+MPW,Finance,Real Estate Investment Trusts,0.0,12.92
+MDT,Health Technology,Medical Specialties,0.0,NA
+MLCO,Consumer Services,Casinos/Gaming,20.0,8.02
+MELI,Technology Services,Internet Software/Services,-9.0,NA
+MRK,Health Technology,Pharmaceuticals: Major,9.0,191.04
+MET,Finance,Life/Health Insurance,-9.0,55.42
+MTD,Health Technology,Medical Specialties,18.0,31.45
+MFA,Finance,Real Estate Investment Trusts,-3.0,2.03
+MTG,FInance,Specialty Insurance,-20.0,4.88
+MGM,Consumer Services,Casinos/Gaming,-20.0,20.71
+MCHP,Electronic Technology,Semiconductors,19.0,42.6
+MU,Electronic Technology,Semiconductors,-15.0,90.26
+MSFT,Technology Services,Packaged Software,-20.0,1957.0
+MFG,Finance,Major Banks,9.0,36.95
+MBT,Communications,Wireless Telecommunications,-1.0,NA
+MRNA,Health Technology,Biotechnology,-13.0,83.28
+MOMO,Technology Services,Information Technology Services,12.0,NA
+MDLZ,Consumer Non-Durables,Food: Major Diversified,0.0,89.6
+MGI,Commercial Services,Miscellaneous Commercial Services,-9.0,0.76
+MDB,Technology Services,Packaged Software,1.0,21.54
+MNST,Consumer Non-Durables,Beverages: Non-Alcoholic,10.0,49.36
+MCO,Commercial Services,Financial Publishing/Services,18.0,65.1
+MS,Finance,Investment Banks/Brokers,-16.0,168.79
+MORN,Finance,Investment Managers,-9.0,10.23
+MOS,Process Industries,Chemicals: Agricultural,-11.0,12.58
+MSI,Electronic Technology,Aerospace & Defense,18.0,35.86
+MPLX,Industrial Services,Oil & Gas Pipelines,-11.0,32.04
+MUFG,Finance,Major Banks,-5.0,70.71
+MUR,Energy Minerals,Oil & Gas Production,15.0,3.65
+NDAQ,Finance,Investment Banks/Brokers,11.0,28.74
+NOV,Industrial Services,Oilfield Services/Equipment,-4.0,6.56
+NTCO,Consumer Non-Durables,Household/Personal Care,-7.0,16.01
+NAVI,Finance,Finance/Rental/Leasing,12.0,3.43
+NKTR,Health Technology,Pharmaceuticals: Major,-2.0,3.22
+NPTN,Electronic Technology,Electronic Components,-12.0,NA
+NTAP,Electronic Technology,Computer Peripherals,11.0,18.47
+NTES,Technology Services,Internet Software/Services,-17.0,76.53
+NFLX,Consumer Services,Cable/Satellite TV,-17.0,221.65
+NBIX,Health Technology,Biotechnology,6.0,9.41
+NBEV,Consumer Non-Durables,Beverages: Alcoholic,-16.0,0.33
+EDU,Consumer Services,Other Consumer Services,14.0,17.24
+NRZ,Finance,Real Estate Investment Trusts,-12.0,NA
+NYCB,Finance,Savings Banks,-3.0,5.39
+NYMT,Finance,Real Estate Investment Trusts,-16.0,1.78
+NYT,Consumer Services,Publishing: Newspapers,-9.0,6.8
+NWL,Producer Manufacturing,Industrial Conglomerates,-10.0,11.62
+NEM,Non-Energy Minerals,Precious Metals,13.0,55.94
+NWSA,Consumer Services,Publishing: Newspapers,-19.0,NA
+NEE,Utilities,Electric Utilities,11.0,143.79
+NICE,Technology Services,Information Technology Services,-15.0,14.28
+NKE,Consumer Non-Durables,Apparel/Footwear,-1.0,207.54
+NKLA,Consumer Durables,Motor Vehicles,-12.0,6.77
+NIO,Consumer Durables,Motor Vehicles,-18.0,76.27
+NOAH,Finance,Investment Banks/Brokers,6.0,NA
+NMR,Finance,Investment Banks/Brokers,20.0,16.49
+JWN,Retail Trade,Apparel/Footwear Retail,7.0,5.44
+NSC,Transportation,Railroads,-18.0,67.94
+NTRS,Finance,Regional Banks,-3.0,24.24
+NOC,Electronic Technology,Aerospace & Defense,-20.0,59.91
+NLOK,Technology Services,Packaged Software,19.0,16.49
+NCLH,Consumer Services,Hotels/Resorts/Cruise lines,-4.0,11.46
+NVS,Health Technology,Pharmaceuticals: Major,7.0,211.09
+NVAX,Health Technology,Biotechnology,-20.0,15.39
+NVCR,Health Technology,Medical Specialties,20.0,NA
+NRG,Utilities,Electric Utilities,-10.0,9.07
+NUE,Non-Energy Minerals,Steel,-10.0,30.73
+NTNX,Technology Services,Packaged Software,-19.0,7.93
+NUVA,Health Technology,Medical Specialties,-1.0,3.37
+NVDA,Electronic Technology,Semiconductors,14.0,449.02
+NVR,Consumer Durables,Homebuilding,20.0,16.99
+ORLY,Retail Trade,Specialty Stores,-6.0,37.14
+OXY,Energy Minerals,Oil & Gas Production,-2.0,26.39
+ODP,Retail Trade,Specialty Stores,-10.0,2.64
+OKTA,Technology Services,Packaged Software,17.0,34.86
+OLN,Process Industries,Industrial Specialties,14.0,7.64
+OMC,Commercial Services,Advertising/Marketing Services,-4.0,17.75
+ON,Electronic Technology,Semiconductors,13.0,16.36
+OKE,Industrial Services,Oil & Gas Pipelines,-2.0,24.7
+OPK,Health Technology,Pharmaceuticals: Major,-11.0,2.5
+ORCL,Technology Services,Packaged Software,-19.0,238.23
+ORA,Utilities,Alternative Power Generation,13.0,3.91
+OSCR,Health Services,Hospital/Nursing Management,14.0,NA
+OTIS,Producer Manufacturing,Building Products,-11.0,34.67
+OSTK,Retail Trade,Internet Retail,-2.0,3.84
+OZON,Retail Trade,Internet Retail,18.0,NA
+PG,Consumer Non-Durables,Household/Personal Care,3.0,330.29
+PCAR,Producer Manufacturing,Trucks/Construction/Farm Machinery,12.0,31.61
+PD,Technology Services,Packaged Software,12.0,3.42
+PLTR,Technology Services,Packaged Software,-12.0,46.91
+PANW,Electronic Technology,Computer Communications,-7.0,35.79
+PAM,Utilities,Electric Utilities,13.0,NA
+PAAS,Non-Energy Minerals,Precious Metals,20.0,6.64
+PH,Producer Manufacturing,Industrial Machinery,-6.0,38.31
+PTEN,Industrial Services,Contract Drilling,-18.0,1.93
+PAYX,Technology Services,Data Processing Services,-12.0,37.65
+PYPL,Technology Services,Data Processing Services,-4.0,322.96
+PBF,Energy Minerals,Oil Refining/Marketing,-15.0,2.04
+PDCE,Energy Minerals,Oil & Gas Production,17.0,4.71
+PTON,Consumer Services,Other Consumer Services,5.0,33.43
+PENN,Consumer Services,Casinos/Gaming,20.0,12.61
+PBCT,Finance,Major Banks,9.0,NA
+PEP,Consumer Non-Durables,Beverages: Non-Alcoholic,-18.0,205.26
+PSTH,Finance,Financial Conglomerates,-20.0,4.52
+PBR,Energy Minerals,Integrated Oil,14.0,75.26
+PFE,Health Technology,Pharmaceuticals: Major,14.0,221.83
+PCG,Utilities,Electric Utilities,10.0,23.95
+PM,Consumer Non-Durables,Tobacco,10.0,156.63
+PSX,Energy Minerals,Oil Refining/Marketing,-13.0,40.03
+PDD,Retail Trade,Internet Retail,-18.0,152.41
+PINS,Technology Services,Internet Software/Services,19.0,43.73
+PXD,Energy Minerals,Oil & Gas Production,7.0,39.55
+PBI,Producer Manufacturing,Office Equipment/Supplies,5.0,NA
+PAA,Industrial Services,Oil & Gas Pipelines,-8.0,8.86
+PLNT,Consumer Services,Other Consumer Services,1.0,6.56
+PLUG,Electronic Technology,Electronic Components,0.0,17.37
+PNC,Finance,Major Banks,19.0,79.49
+PPG,Process Industries,Industrial Specialties,10.0,41.58
+PPL,Utilities,Electric Utilities,16.0,22.51
+PBH,Health Technology,Pharmaceuticals: Other,-20.0,2.59
+PRI,Finance,Life/Health Insurance,-7.0,6.22
+PGR,Finance,Property/Casualty Insurance,6.0,54.48
+PLD,Finance,Real Estate Investment Trusts,2.0,93.32
+PFPT,Technology Services,Data Processing Services,15.0,9.97
+PRU,Finance,Financial Conglomerates,-4.0,41.14
+PEG,Utilities,Electric Utilities,-3.0,31.25
+PSA,Finance,Real Estate Investment Trusts,-8.0,51.55
+PHM,Consumer Durables,Homebuilding,18.0,14.07
+PSTG,Electronic Technology,Computer Peripherals,-18.0,5.53
+QTWO,Technology Services,Information Technology Services,9.0,5.74
+QCOM,Electronic Technology,Telecommunications Equipment,-12.0,154.88
+QLYS,Technology Services,Packaged Software,-16.0,3.95
+PWR,Industrial Services,Engineering & Construction,-6.0,12.77
+QD,Technology Services,Internet Software/Services,-6.0,NA
+QRTEA,Retail Trade,Internet Retail,-3.0,5.58
+RXT,Technology Services,Data Processing Services,-4.0,NA
+RL,Retail Trade,Apparel/Footwear Retail,20.0,8.8
+RRC,Energy Minerals,Oil & Gas Production,8.0,3.84
+RTX,Electronic Technology,Aerospace & Defense,12.0,134.41
+RLGY,Finance,Real Estate Development,-3.0,NA
+REAL,Retail Trade,Internet Retail,6.0,1.85
+O,Finance,Real Estate Investment Trusts,17.0,26.37
+RDFN,Finance,Real Estate Development,-9.0,6.35
+REGN,Health Technology,Biotechnology,-5.0,56.33
+RF,Finance,Major Banks,12.0,20.36
+RTP,Finance,Financial Conglomerates,-20.0,NA
+REGI,Process Industries,Chemicals: Specialty,10.0,3.28
+RSG,Industrial Services,Environmental Services,-10.0,34.97
+RMD,Health Technology,Medical Specialties,11.0,33.71
+QSR,Consumer Services,Restaurants,13.0,21.0
+RH,Retail Trade,Specialty Stores,-2.0,14.2
+RNG,Technology Services,Packaged Software,9.0,24.97
+RAD,Retail Trade,Drugstore Chains,-20.0,1.21
+RBLX,Technology Services,Packaged Software,-18.0,50.03
+RKT,Finance,Finance/Rental/Leasing,-9.0,41.15
+ROK,Producer Manufacturing,Electrical Products,-16.0,32.69
+ROKU,Consumer Durables,Electronics/Appliances,1.0,48.3
+ROOT,Finance,Insurance Brokers/Services,-1.0,NA
+ROST,Retail Trade,Apparel/Footwear Retail,-12.0,42.57
+RY,Finance,Major Banks,-13.0,149.28
+RCL,Consumer Services,Hotels/Resorts/Cruise lines,-9.0,22.38
+RES,Industrial Services,Oilfield Services/Equipment,1.0,1.24
+SPGI,Commercial Services,Financial Publishing/Services,-8.0,95.48
+CRM,Technology Services,Packaged Software,18.0,228.03
+SBH,Retail Trade,Specialty Stores,8.0,2.33
+SGMO,Health Technology,Biotechnology,11.0,1.69
+SLB,Industrial Services,Oilfield Services/Equipment,-9.0,47.61
+SE,Technology Services,Internet Software/Services,-16.0,143.96
+SEB,Consumer Non-Durables,Food: Meat/Fish/Dairy,-13.0,4.41
+STX,Electronic Technology,Computer Peripherals,-18.0,NA
+SRE,Utilities,Gas Distributors,-16.0,43.37
+NOW,Technology Services,Information Technology Services,-6.0,100.56
+SHAK,Consumer Services,Restaurants,0.0,4.23
+SHW,Process Industries,Industrial Specialties,3.0,72.8
+SHOP,Retail Trade,Internet Retail,0.0,163.54
+SBSW,Non-Energy Minerals,Precious Metals,15.0,NA
+SPG,Finance,Real Estate Investment Trusts,-4.0,43.78
+SIRI,Consumer Services,Broadcasting,-20.0,27.61
+SKX,Consumer Non-Durables,Apparel/Footwear,20.0,7.59
+SWKS,Electronic Technology,Semiconductors,-11.0,28.69
+WORK,Technology Services,Packaged Software,-1.0,26.33
+SLM,Finance,Finance/Rental/Leasing,-4.0,6.26
+SM,Energy Minerals,Oil & Gas Production,-10.0,2.51
+SMAR,Technology Services,Packaged Software,-12.0,8.14
+SNAP,Technology Services,Internet Software/Services,12.0,99.59
+SNOW,Technology Services,Packaged Software,17.0,72.3
+IPOD,Finance,Financial Conglomerates,-20.0,NA
+IPOF,Finance,Financial Conglomerates,-1.0,NA
+SOFI,Finance,Finance/Rental/Leasing,-20.0,NA
+SOGO,Technology Services,Internet Software/Services,19.0,NA
+SEDG,Producer Manufacturing,Electrical Products,-11.0,12.62
+SONY,Consumer Durables,Electronics/Appliances,17.0,NA
+SO,Utilities,Electric Utilities,-17.0,67.53
+SCCO,Non-Energy Minerals,Other Metals/Minerals,8.0,50.86
+LUV,Transportation,Airlines,3.0,33.87
+SWN,Energy Minerals,Oil & Gas Production,-13.0,3.68
+SAVE,Transportation,Airlines,18.0,3.68
+SPLK,Technology Services,Information Technology Services,13.0,20.06
+SPOT,Technology Services,Internet Software/Services,18.0,48.03
+SFM,Retail Trade,Food Retail,-2.0,3.39
+SQ,Technology Services,Information Technology Services,-8.0,105.16
+SSNC,Technology Services,Information Technology Services,-18.0,18.92
+SRAC,Finance,Financial Conglomerates,-14.0,NA
+SWK,Consumer Durables,Tools & Hardware,19.0,32.77
+SVAC,Finance,Financial Conglomerates,0.0,NA
+SBUX,Consumer Services,Restaurants,-8.0,132.49
+STT,Finance,Regional Banks,-4.0,29.48
+STLD,Non-Energy Minerals,Steel,-2.0,13.33
+STLA,Consumer Durables,Motor Vehicles,7.0,64.15
+SFIX,Retail Trade,Apparel/Footwear Retail,9.0,6.76
+STNE,Technology Services,Packaged Software,18.0,19.79
+SYK,Health Technology,Medical Specialties,20.0,96.33
+SMFG,Finance,Major Banks,7.0,48.29
+SUMO,Technology Services,Packaged Software,20.0,NA
+SU,Energy Minerals,Integrated Oil,-5.0,38.21
+NOVA,Distribution Services,Wholesale Distributors,-2.0,3.59
+SPWR,Producer Manufacturing,Electrical Products,-16.0,4.49
+RUN,Utilities,Alternative Power Generation,18.0,9.41
+SSSS,Finance,Investment Managers,8.0,NA
+SYF,Finance,Finance/Rental/Leasing,-12.0,28.28
+SNPS,Technology Services,Packaged Software,-11.0,40.65
+SYY,Distribution Services,Food Distributors,-8.0,40.61
+TMUS,Communications,Wireless Telecommunications,-14.0,181.11
+TROW,Finance,Investment Managers,18.0,43.69
+TTWO,Consumer Durables,Recreational Products,-2.0,21.69
+TSM,Electronic Technology,Semiconductors,12.0,574.32
+TAK,Health Technology,Pharmaceuticals: Major,-2.0,54.19
+TAL,Consumer Services,Other Consumer Services,-13.0,19.23
+SKT,Finance,Real Estate Investment Trusts,-18.0,1.94
+TPR,Retail Trade,Apparel/Footwear Retail,-14.0,12.06
+TRGP,Energy Minerals,Oil Refining/Marketing,-5.0,10.76
+TGT,Retail Trade,Specialty Stores,14.0,115.3
+TTM,Consumer Durables,Motor Vehicles,6.0,17.13
+FTI,Industrial Services,Oilfield Services/Equipment,4.0,4.43
+TECK,Non-Energy Minerals,Other Metals/Minerals,10.0,12.38
+TDOC,Health Services,Hospital/Nursing Management,5.0,24.33
+TFX,Health Technology,Medical Specialties,-4.0,18.49
+VIV,Communications,Major Telecommunications,8.0,15.31
+TPX,Consumer Durables,Home Furnishings,2.0,7.64
+TME,Technology Services,Internet Software/Services,13.0,27.11
+TER,Electronic Technology,Electronic Production Equipment,-15.0,21.86
+TSLA,Consumer Durables,Motor Vehicles,-8.0,595.03
+TEVA,Health Technology,Pharmaceuticals: Generic,-14.0,11.91
+TXN,Electronic Technology,Semiconductors,-14.0,175.7
+AES,Utilities,Electric Utilities,12.0,17.14
+CLX,Consumer Non-Durables,Household/Personal Care,7.0,21.66
+DOW,Process Industries,Chemicals: Specialty,13.0,50.01
+GEO,Finance,Real Estate Investment Trusts,-12.0,0.83
+BARK,Finance,Financial Conglomerates,9.0,NA
+SMG,Process Industries,Chemicals: Agricultural,5.0,10.78
+TMO,Health Technology,Medical Specialties,-12.0,184.75
+TBA,Finance,Financial Conglomerates,-7.0,NA
+THBR,Finance,Financial Conglomerates,9.0,NA
+TIMB,Communications,Wireless Telecommunications,13.0,NA
+TJX,Retail Trade,Apparel/Footwear Retail,-19.0,78.57
+TD,Finance,Major Banks,-9.0,130.83
+TM,Consumer Durables,Motor Vehicles,7.0,250.76
+TPGY,Finance,Financial Conglomerates,7.0,NA
+PACE,Finance,Financial Conglomerates,15.0,NA
+TPIC,Producer Manufacturing,Electrical Products,2.0,NA
+TTD,Commercial Services,Advertising/Marketing Services,-5.0,28.62
+TW,Technology Services,Internet Software/Services,-9.0,19.6
+TRXC,Commercial Services,Miscellaneous Commercial Services,13.0,0.46
+TRV,Finance,Multi-Line Insurance,-5.0,38.53
+TCOM,Consumer Services,Other Consumer Services,-9.0,45.96
+TRIP,Consumer Services,Other Consumer Services,12.0,5.56
+TGI,Electronic Technology,Aerospace & Defense,20.0,NA
+TFC,Finance,Regional Banks,13.0,76.23
+TSP,Consumer Durables,Motor Vehicles,-11.0,NA
+TWCT,Finance,Financial Conglomerates,-19.0,NA
+TWLO,Technology Services,Packaged Software,16.0,59.24
+TWTR,Technology Services,Internet Software/Services,16.0,48.55
+TWO,Finance,Real Estate Investment Trusts,5.0,2.06
+TSN,Consumer Non-Durables,Food: Meat/Fish/Dairy,-16.0,28.21
+UBER,Technology Services,Packaged Software,-19.0,95.02
+UBS,Finance,Major Banks,-19.0,57.48
+PATH,Technology Services,Packaged Software,18.0,NA
+ULTA,Retail Trade,Specialty Stores,19.0,18.44
+UCTT,Electronic Technology,Semiconductors,-19.0,NA
+UGP,Energy Minerals,Oil Refining/Marketing,-18.0,4.4
+UAA,Consumer Non-Durables,Apparel/Footwear,-6.0,NA
+UA,Consumer Non-Durables,Apparel/Footwear,-10.0,8.85
+UNP,Transportation,Railroads,-19.0,147.88
+UAL,Transportation,Airlines,3.0,18.03
+UMC,Electronic Technology,Semiconductors,18.0,23.28
+X,Non-Energy Minerals,Steel,10.0,7.21
+UNH,Health Services,Managed Health Care,-16.0,376.68
+UNIT,Finance,Real Estate Investment Trusts,1.0,2.53
+U,Technology Services,Packaged Software,-16.0,28.58
+UNM,Finance,Life/Health Insurance,9.0,6.16
+TIGR,Finance,Investment Banks/Brokers,7.0,NA
+UPS,Transportation,Air Freight/Couriers,-14.0,175.05
+URBN,Retail Trade,Apparel/Footwear Retail,-17.0,3.79
+USB,Finance,Major Banks,19.0,86.63
+SLCA,Non-Energy Minerals,Other Metals/Minerals,10.0,0.81
+VALE,Non-Energy Minerals,Steel,4.0,115.35
+VLO,Energy Minerals,Oil Refining/Marketing,-2.0,33.49
+VACQ,Finance,Financial Conglomerates,-7.0,NA
+VGR,Consumer Non-Durables,Tobacco,11.0,2.22
+VEEV,Technology Services,Packaged Software,3.0,46.47
+VTR,Finance,Real Estate Investment Trusts,0.0,22.11
+VER,Finance,Real Estate Investment Trusts,-19.0,11.21
+VRSN,Technology Services,Internet Software/Services,-5.0,24.79
+VRSK,Finance,Insurance Brokers/Services,18.0,28.08
+VZ,Communications,Major Telecommunications,0.0,236.72
+VRTX,Health Technology,Biotechnology,7.0,50.42
+VFC,Consumer Non-Durables,Apparel/Footwear,15.0,31.9
+VGAC,Finance,Financial Conglomerates,-8.0,NA
+VIACA,Consumer Services,Broadcasting,-14.0,27.48
+VTRS,Health Technology,Pharmaceuticals: Major,9.0,NA
+VICI,Finance,Real Estate Development,-9.0,17.62
+VIPS,Retail Trade,Internet Retail,-20.0,15.1
+VIR,Health Technology,Biotechnology,-19.0,5.92
+SPCE,Electronic Technology,Aerospace & Defense,17.0,8.78
+V,Finance,Finance/Rental/Leasing,-6.0,515.06
+VST,Utilities,Electric Utilities,0.0,8.86
+VMW,Technology Services,Information Technology Services,0.0,67.26
+VG,Communications,Specialty Telecommunications,-3.0,3.67
+VIH,Finance,Financial Conglomerates,-6.0,NA
+VRM,Retail Trade,Specialty Stores,8.0,6.16
+WAB,Producer Manufacturing,Trucks/Construction/Farm Machinery,-13.0,15.23
+WBA,Retail Trade,Drugstore Chains,-11.0,47.04
+WMT,Retail Trade,Food Retail,-2.0,393.87
+DIS,Consumer Services,Cable/Satellite TV,10.0,323.74
+WCN,Industrial Services,Environmental Services,-11.0,31.83
+WM,Industrial Services,Environmental Services,10.0,59.2
+W,Retail Trade,Internet Retail,19.0,33.07
+WB,Technology Services,Internet Software/Services,2.0,NA
+WFC,Finance,Major Banks,-1.0,186.63
+WELL,Finance,Real Estate Investment Trusts,-6.0,33.9
+WEN,Consumer Services,Restaurants,-9.0,5.39
+WDC,Electronic Technology,Computer Peripherals,-11.0,22.89
+WU,Finance,Finance/Rental/Leasing,-17.0,10.12
+WRK,Process Industries,Containers/Packaging,8.0,14.7
+WEX,Technology Services,Data Processing Services,-16.0,9.03
+WY,Finance,Real Estate Investment Trusts,17.0,25.87
+WTM,Finance,Multi-Line Insurance,-2.0,NA
+WMB,Industrial Services,Oil & Gas Pipelines,3.0,33.43
+WING,Consumer Services,Restaurants,-9.0,4.48
+WIT,Technology Services,Information Technology Services,-18.0,41.34
+WIX,Technology Services,Information Technology Services,18.0,16.07
+WDAY,Technology Services,Information Technology Services,-3.0,57.37
+WKHS,Producer Manufacturing,Auto Parts: OEM,2.0,1.85
+WWE,Consumer Services,Movies/Entertainment,-18.0,4.84
+WYNN,Consumer Services,Casinos/Gaming,-8.0,14.45
+XEL,Utilities,Electric Utilities,-20.0,37.17
+XRX,Electronic Technology,Computer Peripherals,-19.0,4.68
+XLNX,Electronic Technology,Semiconductors,12.0,31.54
+XPEV,Consumer Durables,Motor Vehicles,-13.0,34.18
+AUY,Non-Energy Minerals,Precious Metals,-20.0,NA
+YETI,Producer Manufacturing,Miscellaneous Manufacturing,20.0,8.24
+YPF,Energy Minerals,Integrated Oil,-13.0,NA
+YUM,Consumer Services,Restaurants,-2.0,35.17
+YUMC,Consumer Services,Restaurants,-8.0,29.05
+YY,Technology Services,Internet Software/Services,2.0,NA
+ZBRA,Electronic Technology,Computer Peripherals,-5.0,27.28
+ZEN,Technology Services,Data Processing Services,9.0,16.73
+Z,Technology Services,Information Technology Services,17.0,NA
+ZBH,Health Technology,Medical Specialties,-14.0,32.84
+ZION,Finance,Regional Banks,-15.0,8.84
+ZTS,Health Technology,Pharmaceuticals: Generic,5.0,87.63
+ZM,Technology Services,Packaged Software,-5.0,107.81
+ZS,Technology Services,Packaged Software,13.0,28.96
+ZTO,Transportation,Air Freight/Couriers,0.0,26.26
