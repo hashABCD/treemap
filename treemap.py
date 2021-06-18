@@ -53,8 +53,6 @@ fig.update_layout(coloraxis_colorbar=dict(
     lenmode="pixels", len=300,
 ))
 
-#save image
-fig.write_image("fig1.png", height=800, width=1200)
 
 #disable hover-mode
 fig.layout.hovermode = False
@@ -65,6 +63,9 @@ fig.layout.hovermode = False
 #Add customdata to label (Change percentage)
 fig.data[0].customdata = np.column_stack([df.Change])
 fig.data[0].texttemplate = "%{label}<br><b>%{customdata[0]}%</b>"
+
+#save image
+fig.write_image("fig1.png", height=800, width=1200)
 
 #show fig
 fig.show()
