@@ -44,6 +44,15 @@ fig = px.treemap(df,
                  color='disc_code',
                  range_color=[0.5, 7.5],
                  color_continuous_scale=scale)
+#font
+fig.update_layout(
+    font=dict(
+        family="Arial",
+        size=14
+    )
+)
+
+fig.update_traces(textposition='middle center')
 
 #Generate color bar
 fig.update_layout(coloraxis_colorbar=dict(
