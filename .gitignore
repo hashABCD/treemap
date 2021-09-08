@@ -1,0 +1,12 @@
+#My Files
+inputs/
+Alien Project/
+
+# IPython Notebook
+.ipynb_checkpoints
+*.ipynb
+*.py
+
+
+#*.png
+*.psd
